@@ -1,6 +1,6 @@
 import random
-from hangmantest.hangmanwords import word_list
-from hangmantest.hangmanart import hang
+from hangmanwords import word_list
+from hangmanart import hang
 
 
 
